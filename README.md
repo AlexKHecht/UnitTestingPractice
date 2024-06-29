@@ -1,2 +1,2 @@
 # UnitTestingPractice
-Repo do document my learning of xUnit and unit testing mroe generally
+Repo to document my learning of xUnit, but also unit testing more generally.
